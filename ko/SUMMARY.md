@@ -1,6 +1,6 @@
 # Table of contents
 
-- [프릭스 사용 가이드](README.md)
+- [프릭스 사용 가이드](./README.md)
 - [비즈니스 관리](business/README.md)
   - [비즈니스 정보 및 설정 관리하기](business/1.md)
   - [팀 설정 및 팀원 초대하기](business/2.md)
