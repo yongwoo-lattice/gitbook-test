@@ -1,10 +1,9 @@
 {
+  "languages": ["en", "ko"],
+  "plugins": ["language-picker"],
   "pluginsConfig": {
-    "theme-default": {
-      "showLanguageSelector": true,
-      "languageSelector": {
-        "title": "언어 선택 / Choose Your Language"
-      }
+    "language-picker": {
+      "grid-columns": 2
     }
   }
 }
