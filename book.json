@@ -1,0 +1,10 @@
+{
+  "pluginsConfig": {
+    "theme-default": {
+      "showLanguageSelector": true,
+      "languageSelector": {
+        "title": "언어 선택 / Choose Your Language"
+      }
+    }
+  }
+}
